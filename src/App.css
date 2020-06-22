@@ -5,6 +5,8 @@ body{
   align-items: center;
   min-height: 100vh;
   text-align: center;
+  background: rgb(36,199,204);
+  background: linear-gradient(90deg, rgba(36,199,204,0.9920343137254902) 26%, rgba(104,74,196,1) 93%);
 }
 
 h1{
